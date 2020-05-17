@@ -1,2 +1,0 @@
-# usePaginationSearch
-Created with CodeSandbox
